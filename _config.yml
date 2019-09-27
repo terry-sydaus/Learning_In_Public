@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: Terry Murphy's Learning In Public Blog 
+author: Terry Murphy
+email: terryjmurphy71@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A blog set up to document my learnings on my journey to acquiring the required skills and knowledge to become
+  a competent full stack developer.
+
+# social links
+twitter_username: your-twitter-handle
+github_username:  terry-sydaus
+
+show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
