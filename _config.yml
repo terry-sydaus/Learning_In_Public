@@ -11,4 +11,8 @@ github_username:  terry-sydaus
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
+# Build settings
+markdown: kramdown
 theme: minima
+gems:
+  - jekyll-feed
