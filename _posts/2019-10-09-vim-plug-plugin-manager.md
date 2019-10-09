@@ -28,3 +28,5 @@ Plug 'mxw/vim-jsx'
 call plug#end()
 ````
 Hope this is useful for anyone else experiencing any issues with installing the vim-plug plugin manager and installing & activating plugins using a plugin manager.
+
+[https://github.com/junegunn/vim-plug]: https://github.com/junegunn/vim-plug
